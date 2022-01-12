@@ -1,0 +1,15 @@
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\bin\Debug\net6.0\CSharp.exe
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\bin\Debug\net6.0\CSharp.deps.json
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\bin\Debug\net6.0\CSharp.dll
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\bin\Debug\net6.0\ref\CSharp.dll
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\bin\Debug\net6.0\CSharp.pdb
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.dll
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\ref\CSharp.dll
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.pdb
+D:\Dropbox\YURI\CURSOS (1)\DECOLA TECH 2\REPOSITÓRIO\Intro ao CSharp e net\CSharp\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
